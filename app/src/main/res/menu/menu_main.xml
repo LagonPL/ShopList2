@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.shoplist.shoplist.Activities.MainActivity">
+
+    <item
+        android:id="@+id/action_friends"
+        android:orderInCategory="100"
+        android:title="@string/action_friends"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_requests"
+        android:orderInCategory="100"
+        android:title="@string/action_request"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/action_logout"
+        app:showAsAction="never" />
+</menu>

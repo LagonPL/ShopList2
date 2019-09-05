@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="password_hint">Hasło</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Rejestracja</string>
+    <string name="signup_error_message">Wpisz poprawny email oraz hasło lub użyj innego nicku</string>
+    <string name="signup_error_title">Bład!</string>
+    <string name="signup_success">Konto zostało utworzone. Możesz teraz się zalogować</string>
+    <string name="login_error_message">Wpisz poprawny email oraz hasło!</string>
+    <string name="friend_no_send">Nieprawidlowe dane lub podany użytkownik nie istnieje!</string>
+    <string name="login_error_title">Błąd!</string>
+    <string name="login_button_label">Logowanie</string>
+    <string name="sign_up_text">Rejestracja</string>
+    <string name="title_activity_login">Loguj</string>
+    <string name="add_item">Dodaj</string>
+    <string name="add_friend">Dodaj znajomego</string>
+    <string name="action_logout">Wyloguj</string>
+    <string name="action_friends">Znajomi</string>
+    <string name="title_give">Nazwa produktu</string>
+    <string name="amount_give">Ilość</string>
+    <string name="refresh">Odśwież</string>
+    <string name="nickname">Pseudonim</string>
+    <string name="uncorrecttext">Nieprawidlowe dane!</string>
+    <string name="readerror">Błąd pobierania z bazy!</string>
+    <string name="adderror">Błąd dodawania do bazy!</string>
+    <string name="deleteerror">Błąd usuwania z bazy!</string>
+    <string name="databaseerror">Nieoczekiwany problem z bazą danych!</string>
+    <string name="action_request">Zaproszenia</string>
+    <string name="friend_send">Zaproszenie zostało wysłane!</string>
+    <string name="deletenote">Nie masz takiego użytkownika w znajomych lub wpisaleś sam siebie</string>
+</resources>
